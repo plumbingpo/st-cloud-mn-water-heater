@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stcloudwaterheater.com/sitemap.xml
